@@ -1,8 +1,8 @@
-Info
-====
+Stipulate
+=========
 This gem was developed for use in a number of Rails projects. Very often "statusesque" string fields are used for maximum flexibility in designing state-sensitive models, such as a "pending" order or an "inactive" user. Homebrew solutions leave the individual statuses undocumented and require string sensitive comparisons. This gem introduces readability and adds some convenient method generation so that code remains readable, but just as flexible as the string field backing it.
 
-Be sure to check out [nybblr.com](http://nybblr.com) for other Rails goodies, and if you're looking for more of my gems (when I get around to it!) go to nybblr.com/gems.
+Be sure to check out [nybblr.com](http://nybblr.com) for other Rails goodies, and if you're looking for more of my gems (when I get around to it!) stalk my GitHub repos.
 
 Why Stipulate?
 --------------
